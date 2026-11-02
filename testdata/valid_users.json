@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Asha", "age": 19, "active": true, "email": null},
+  {"id": 2, "name": "Rohan \"R\" Patil", "age": 20, "active": false, "email": "r@example.com"},
+  {"id": 3, "name": "Meera", "age": 18, "active": true, "tags": ["cs", "cpp"]}
+]

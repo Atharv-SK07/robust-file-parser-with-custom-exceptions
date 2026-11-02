@@ -1,0 +1,11 @@
+id,name,price,in_stock
+1,Notebook,45.50,true
+2,"Pen, blue,12,yes
+3,Ruler,abc,false
+4,Stapler,150
+5,Eraser,5,0,extra
+6,"Glue"stick,30,true
+7,Marker,he"llo,true
+8,Compass,60,maybe
+,Folder,10,true
+9,Scissors,75.5,true

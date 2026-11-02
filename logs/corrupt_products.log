@@ -1,0 +1,15 @@
+==== Error Report: testdata/corrupt_products.csv ====
+[ParseError]       line 3, col 3   (record skipped) unclosed quote (field opened here never ends on this line)
+[ValidationError]  line 4, col 9   (record skipped) field 'price' expected number but found 'abc'
+[ValidationError]  line 5, col 14  (record skipped) missing field(s): expected 4 fields but found 3
+[ValidationError]  line 6, col 14  (record skipped) too many fields: expected 4 but found 5
+[ParseError]       line 7, col 9   (record skipped) unexpected character 's' after closing quote
+[ParseError]       line 8, col 12  (record skipped) unexpected quote inside an unquoted field
+[ValidationError]  line 9, col 14  (record skipped) field 'in_stock' expected boolean but found 'maybe'
+[ValidationError]  line 10, col 1  (record skipped) field 'id' is required but empty
+---- Summary ----
+Total errors     : 8
+  ParseError     : 3
+  ValidationError: 5
+  FileError      : 0
+Records skipped  : 8

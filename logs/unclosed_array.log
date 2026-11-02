@@ -1,0 +1,8 @@
+==== Error Report: testdata/unclosed_array.json ====
+[ParseError]       line 3, col 1   (logged)         unexpected end of file, expected ',' or ']' (is the closing ']' missing?)
+---- Summary ----
+Total errors     : 1
+  ParseError     : 1
+  ValidationError: 0
+  FileError      : 0
+Records skipped  : 0

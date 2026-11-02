@@ -1,0 +1,13 @@
+[
+  {"id": 1, "name": "Asha", "age": 19, "active": true},
+  {"id": 2, "name": "Rohan, "age": 20, "active": false},
+  {"id": "three", "name": "Meera", "age": 18, "active": true},
+  {"id": 4, "name": "Kabir", "age": 17.5, "active": true},
+  {"id": 5, "age": 21, "active": true},
+  {"id": 6, "name": "Zoya", "age": @, "active": true},
+  {"id": 7, "name": "Dev", "age": 22, "active": maybe},
+  {"id": 8, "name": "Ishaan", "age": 23, "active": true},
+  {"id": 9, "name": "Tara", "age": 24, "active": true, "age": 25},
+  {"id": 10, "name": "Veer", "age": 01, "active": false},
+  {"id": 11, "name": "Nina", "age": 25, "active": true},
+]

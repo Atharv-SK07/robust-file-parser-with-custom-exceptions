@@ -1,0 +1,7 @@
+id,name,price,in_stock
+1,Notebook,45.50,true
+2,"Pen, blue",12,yes
+3,"Ruler ""30cm""",20.25,false
+4,Stapler,150,1
+
+5,Eraser,5,0

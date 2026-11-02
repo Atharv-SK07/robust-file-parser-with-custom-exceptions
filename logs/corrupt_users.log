@@ -1,0 +1,16 @@
+==== Error Report: testdata/corrupt_users.json ====
+[ParseError]       line 3, col 30  (record skipped) unknown literal 'age'
+[ValidationError]  line 4, col 10  (record skipped) field 'id' expected integer but found string 'three'
+[ValidationError]  line 5, col 37  (record skipped) field 'age' expected integer but found number '17.5'
+[ValidationError]  line 6, col 3   (record skipped) missing required field 'name'
+[ParseError]       line 7, col 36  (record skipped) unexpected character '@'
+[ParseError]       line 8, col 49  (record skipped) unknown literal 'maybe'
+[ParseError]       line 10, col 56 (record skipped) duplicate key 'age'
+[ParseError]       line 11, col 37 (record skipped) invalid number '01'
+[ParseError]       line 13, col 1  (logged)         trailing comma before ']'
+---- Summary ----
+Total errors     : 9
+  ParseError     : 6
+  ValidationError: 3
+  FileError      : 0
+Records skipped  : 8
