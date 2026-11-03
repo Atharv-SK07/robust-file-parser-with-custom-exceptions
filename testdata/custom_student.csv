@@ -1,0 +1,4 @@
+id:int,name:string,age:int,marks:double
+101,Atharv,19,85.5
+102,Viren,20,92.5
+103,Shreyas,19,70.5
